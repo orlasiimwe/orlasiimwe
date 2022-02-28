@@ -1,4 +1,4 @@
-👋 Hi, I’m @orlasiimwe
+👋 Hi, I’m Orla Nerys Asiimwe
 
 <!---
 orlasiimwe/orlasiimwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
