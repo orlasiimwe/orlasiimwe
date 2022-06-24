@@ -1,4 +1,4 @@
-👋 Hi, I’m Orla Nerys Asiimwe
+👋 Hi, I’m Orla Nerys Asiimwe, a JavaScript developer!
 
 <!---
 orlasiimwe/orlasiimwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
